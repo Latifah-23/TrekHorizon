@@ -63,7 +63,7 @@ flutter run
 
 ## Author
 
-**Latifah Bakhsh** - Mobile App Developer & Data Analyst 
+* **Latifah Bakhsh** - Mobile App Developer & Data Analyst 
 
 
 * [LinkedIn Profile](https://www.google.com/search?q=https://www.linkedin.com/in/latifah-bakhsh-1667b5212)
