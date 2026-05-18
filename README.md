@@ -63,7 +63,6 @@ flutter run
 
 ## Author
 
-* 
 **Latifah Bakhsh** - Mobile App Developer & Data Analyst 
 
 
