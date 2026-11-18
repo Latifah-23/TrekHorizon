@@ -1,0 +1,34 @@
+# Flutter & Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+
+# Sensitive files
+.env
+.env.*
+*.jks
+*.keystore
+key.properties
+*.log
+
+# Generated files
+android/local.properties
+ios/Pods/
+ios/.symlinks/
+macos/Pods/
+**/Flutter/ephemeral/
+
+/ios/Flutter/Generated.xcconfig
