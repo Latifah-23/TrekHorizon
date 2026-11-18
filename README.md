@@ -23,6 +23,39 @@ planning, supporting Saudi Vision 2030.
 - Reservation tracking
 - Digital wallet interface
 - User profile and settings
+## Application Screenshots
+
+### Onboarding Experience
+
+<p align="center">
+  <img src="screenshots/Authentic%20Heritage%20%26%20Hospitality.png" width="230" />
+  <img src="screenshots/Discover%20the%20Kingdom%27s%20Beauty.png" width="230" />
+  <img src="screenshots/Endless%20Advanture.png" width="230" />
+</p>
+
+### Authentication
+
+<p align="center">
+  <img src="screenshots/Log%20in.png" width="230" />
+  <img src="screenshots/Sign%20up.png" width="230" />
+  <img src="screenshots/Forgot%20Password.png" width="230" />
+</p>
+
+### Explore & Plan
+
+<p align="center">
+  <img src="screenshots/HomeORdiscover.png" width="230" />
+  <img src="screenshots/Map%20View.png" width="230" />
+  <img src="screenshots/Services.png" width="230" />
+</p>
+
+### Reservations & Profile
+
+<p align="center">
+  <img src="screenshots/Reservations.png" width="230" />
+  <img src="screenshots/My%20Profile.png" width="230" />
+</p>
+
 
 ## Technologies Used
 
